@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\ValSL\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\ValSL\\.nuget\\packages"
+    ]
+  }
+}
